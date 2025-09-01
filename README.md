@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vibe-coding-assistant
 =======
 # Vibe-Coding-Assistant: Multilingual Voice-Driven Coding Assistant
@@ -169,3 +169,4 @@ Vibe-Coding-Assistant/
 ## License
 MIT
 >>>>>>> 9c25975 (Initial multilingual voice assistant commit)
+
