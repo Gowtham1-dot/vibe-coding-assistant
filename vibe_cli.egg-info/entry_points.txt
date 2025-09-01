@@ -1,0 +1,2 @@
+[console_scripts]
+vibe = cli.vibe:main

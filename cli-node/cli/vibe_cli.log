@@ -1,0 +1,21 @@
+2025-09-01 03:05:24,257 INFO Received transcript for key: 62cc3f018930cb6e935e86fc90c1e1792783e5e431d924ffb2ba367bc90404f6
+2025-09-01 03:58:28,918 INFO Received transcript for key: 5fb1f435badd95a95b90397ccc72ce9011a3d78b41cc74e139ab08cef141f75e
+2025-09-01 05:45:11,103 INFO Received transcript for key: a038dba3b0b81a52c358f1dc740a3db680da6ee774e062a0cee36b6b8bbc98cb
+2025-09-01 05:47:46,494 INFO Received transcript for key: a038dba3b0b81a52c358f1dc740a3db680da6ee774e062a0cee36b6b8bbc98cb
+2025-09-01 05:47:57,147 INFO Saved transcript to cache for key: a038dba3b0b81a52c358f1dc740a3db680da6ee774e062a0cee36b6b8bbc98cb
+2025-09-01 05:51:01,211 INFO Received transcript for key: 6deb00a30ce82c33cfe25af9ed3abe567890393977bb06e48de552429bd78c70
+2025-09-01 05:52:36,649 INFO Received transcript for key: e57802cdb3ba94bd04e767c3119420afca0e3963475a042ece1e5e0e97cb726c
+2025-09-01 05:53:47,859 INFO Received transcript for key: e57802cdb3ba94bd04e767c3119420afca0e3963475a042ece1e5e0e97cb726c
+2025-09-01 05:55:41,689 INFO Received transcript for key: e57802cdb3ba94bd04e767c3119420afca0e3963475a042ece1e5e0e97cb726c
+2025-09-01 05:57:42,830 INFO Received transcript for key: e57802cdb3ba94bd04e767c3119420afca0e3963475a042ece1e5e0e97cb726c
+2025-09-01 05:58:36,670 ERROR Backend error: sent 1011 (internal error) keepalive ping timeout; no close frame received
+2025-09-01 05:59:44,931 INFO Received transcript for key: e57802cdb3ba94bd04e767c3119420afca0e3963475a042ece1e5e0e97cb726c
+2025-09-01 06:24:15,059 WARNING Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-09-01 06:34:44,947 INFO Received transcript for key: 696add4de83c57702932eccaf537ec3eeab489406bda798f7ba8c348ec637385
+2025-09-01 07:12:36,984 INFO Received transcript for key: e1f8a3bb5d1587393014b1650c6f03e9af09d82b6f47b29a7291b030ab7019a3
+2025-09-01 07:14:44,008 INFO Received transcript for key: 0ce790541bbb212f110b8261036ebd8d78ae689354069ba1fadc2e068f7fb86d
+2025-09-01 07:22:49,749 INFO Received transcript for key: 0ce790541bbb212f110b8261036ebd8d78ae689354069ba1fadc2e068f7fb86d
+2025-09-01 07:22:50,776 ERROR Backend error: received 1008 (policy violation) Invalid api key used.; then sent 1008 (policy violation) Invalid api key used.
+2025-09-01 07:27:09,641 INFO Received transcript for key: 0ce790541bbb212f110b8261036ebd8d78ae689354069ba1fadc2e068f7fb86d
+2025-09-01 07:33:25,558 INFO Received transcript for key: d506dceaca8484e859d7061f34e3e9419fa987a39e9dfc56b70a2e30f33897ac
+2025-09-01 07:58:27,086 INFO Received transcript for key: d506dceaca8484e859d7061f34e3e9419fa987a39e9dfc56b70a2e30f33897ac

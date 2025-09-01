@@ -1,0 +1,20 @@
+
+{
+  "main": "./dist/extension.js",
+  "activationEvents": ["onCommand:vibe.speakSelection"],
+  "contributes": {
+    "commands": [
+      { "command": "vibe.speakSelection", "title": "Vibe: Speak Selection" }
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/vscode": "^1.85.0",
+    "typescript": "^5.4.5",
+    "vscode": "^1.1.37"
+  },
+  "scripts": {
+    "compile": "tsc -p ."
+  }
+}
+

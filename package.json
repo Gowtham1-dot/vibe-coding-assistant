@@ -1,0 +1,35 @@
+{
+  "name": "vibe-coding-assistant",
+  "displayName": "Vibe Coding Assistant",
+  "description": "A Visual Studio Code extension that narrates selected text using Murf TTS via a local FastAPI backend.",
+  "version": "0.1.0",
+  "publisher": "your-name",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "activationEvents": [
+    "onCommand:vibe.speakSelection"
+  ],
+  "main": "./dist/extension.js",
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./tsconfig.json",
+    "watch": "tsc -watch -p ./tsconfig.json",
+    "postinstall": "node ./node_modules/vscode/bin/install"
+  },
+  "contributes": {
+    "commands": [
+      {
+        "command": "vibe.speakSelection",
+        "title": "Speak Selected Text"
+      }
+    ]
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "vscode": "^1.60.0"
+  }
+}

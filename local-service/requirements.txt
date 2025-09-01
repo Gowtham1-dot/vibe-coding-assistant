@@ -1,0 +1,7 @@
+langchain-community
+transformers
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic

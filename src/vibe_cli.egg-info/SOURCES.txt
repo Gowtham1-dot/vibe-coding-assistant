@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/vibe_cli.egg-info/PKG-INFO
+src/vibe_cli.egg-info/SOURCES.txt
+src/vibe_cli.egg-info/dependency_links.txt
+src/vibe_cli.egg-info/entry_points.txt
+src/vibe_cli.egg-info/requires.txt
+src/vibe_cli.egg-info/top_level.txt

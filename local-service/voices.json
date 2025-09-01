@@ -1,0 +1,538 @@
+{
+  "en-SCOTT": [
+    {
+      "id": "en-SCOTT-rory",
+      "name": "Rory",
+      "locales": ["en-SCOTT"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "en-SCOTT-emily",
+      "name": "Emily",
+      "locales": ["en-SCOTT", "en-US"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "fr-FR": [
+    {
+      "id": "fr-FR-adélie",
+      "name": "Adelie",
+      "locales": ["en-US", "fr-FR"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad"]
+    },
+    {
+      "id": "fr-FR-maxime",
+      "name": "Maxime",
+      "locales": ["fr-FR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "fr-FR-axel",
+      "name": "Axel",
+      "locales": ["en-US", "fr-FR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "fr-FR-justine",
+      "name": "Justine",
+      "locales": ["de-DE", "fr-FR"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad", "Angry"]
+    },
+    {
+      "id": "fr-FR-louis",
+      "name": "Louis",
+      "locales": ["fr-FR"],
+      "styles": ["Promo", "Conversational"]
+    },
+    {
+      "id": "fr-FR-louise",
+      "name": "Louise",
+      "locales": ["en-US", "fr-FR"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "de-DE": [
+    {
+      "id": "de-DE-matthias",
+      "name": "Matthias",
+      "locales": ["de-DE", "en-US"],
+      "styles": ["Conversational", "Promo", "Calm", "Angry"]
+    },
+    {
+      "id": "de-DE-lia",
+      "name": "Lia",
+      "locales": ["de-DE"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "de-DE-björn",
+      "name": "Björn",
+      "locales": ["de-DE", "en-US"],
+      "styles": ["Conversational", "Promo"]
+    },
+    {
+      "id": "de-DE-erna",
+      "name": "Erna",
+      "locales": ["de-DE"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "de-DE-lara",
+      "name": "Lara",
+      "locales": ["de-DE"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "de-DE-josephine",
+      "name": "Josephine",
+      "locales": ["de-DE"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad"]
+    },
+    {
+      "id": "de-DE-ralf",
+      "name": "Ralf",
+      "locales": ["de-DE"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "es-MX": [
+    {
+      "id": "es-MX-carlos",
+      "name": "Carlos",
+      "locales": ["es-MX"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "es-MX-alejandro",
+      "name": "Alejandro",
+      "locales": ["es-MX"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad"]
+    },
+    {
+      "id": "es-MX-valeria",
+      "name": "Valeria",
+      "locales": ["es-MX"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "es-MX-luisa",
+      "name": "Luisa",
+      "locales": ["es-MX"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad"]
+    }
+  ],
+  "es-ES": [
+    {
+      "id": "es-ES-elvira",
+      "name": "Elvira",
+      "locales": ["en-US", "es-ES"],
+      "styles": ["Conversational", "Promo"]
+    },
+    {
+      "id": "es-ES-enrique",
+      "name": "Enrique",
+      "locales": ["es-ES"],
+      "styles": ["Conversational", "Promo", "Calm"]
+    },
+    {
+      "id": "es-ES-carmen",
+      "name": "Carmen",
+      "locales": ["es-ES"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "es-ES-javier",
+      "name": "Javier",
+      "locales": ["es-ES"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "es-ES-carla",
+      "name": "Carla",
+      "locales": ["en-IN", "es-ES"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "it-IT": [
+    {
+      "id": "it-IT-lorenzo",
+      "name": "Lorenzo",
+      "locales": ["it-IT"],
+      "styles": ["Conversational", "Promo"]
+    },
+    {
+      "id": "it-IT-greta",
+      "name": "Greta",
+      "locales": ["en-US", "it-IT"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "it-IT-vincenzo",
+      "name": "Vincenzo",
+      "locales": ["it-IT"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "it-IT-giorgio",
+      "name": "Giorgio",
+      "locales": ["en-US", "it-IT"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "it-IT-vera",
+      "name": "Vera",
+      "locales": ["it-IT"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "pt-BR": [
+    {
+      "id": "pt-BR-heitor",
+      "name": "Heitor",
+      "locales": ["pt-BR"],
+      "styles": ["Conversational", "Promo"]
+    },
+    {
+      "id": "pt-BR-isadora",
+      "name": "Isadora",
+      "locales": ["en-US", "pt-BR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "pt-BR-eloa",
+      "name": "Eloa",
+      "locales": ["pt-BR"],
+      "styles": ["Conversational", "Promo"]
+    },
+    {
+      "id": "pt-BR-benício",
+      "name": "Benicio",
+      "locales": ["en-US", "pt-BR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "pt-BR-gustavo",
+      "name": "Gustavo",
+      "locales": ["pt-BR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "pt-BR-silvio",
+      "name": "Silvio",
+      "locales": ["pt-BR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "pt-BR-yago",
+      "name": "Yago",
+      "locales": ["pt-BR"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "zh-CN": [
+    {
+      "id": "zh-CN-tao",
+      "name": "Tao",
+      "locales": ["zh-CN"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad"]
+    },
+    {
+      "id": "zh-CN-jiao",
+      "name": "Jiao",
+      "locales": ["zh-CN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "zh-CN-baolin",
+      "name": "Baolin",
+      "locales": ["zh-CN"],
+      "styles": ["Conversational", "Promo", "Sad"]
+    },
+    {
+      "id": "zh-CN-wei",
+      "name": "Wei",
+      "locales": ["zh-CN"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad"]
+    },
+    {
+      "id": "zh-CN-zhang",
+      "name": "Zhang",
+      "locales": ["zh-CN"],
+      "styles": ["Conversational", "Promo", "Calm"]
+    },
+    {
+      "id": "zh-CN-yuxan",
+      "name": "Yuxan",
+      "locales": ["zh-CN"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "nl-NL": [
+    {
+      "id": "nl-NL-dirk",
+      "name": "Dirk",
+      "locales": ["en-US", "nl-NL"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "nl-NL-merel",
+      "name": "Merel",
+      "locales": ["nl-NL"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "nl-NL-famke",
+      "name": "Famke",
+      "locales": ["nl-NL"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "hi-IN": [
+    {
+      "id": "hi-IN-kabir",
+      "name": "Kabir",
+      "locales": ["hi-IN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "hi-IN-ayushi",
+      "name": "Ayushi",
+      "locales": ["hi-IN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "hi-IN-shaan",
+      "name": "Shaan",
+      "locales": ["hi-IN"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad"]
+    },
+    {
+      "id": "hi-IN-rahul",
+      "name": "Rahul",
+      "locales": ["hi-IN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "hi-IN-shweta",
+      "name": "Shweta",
+      "locales": ["hi-IN"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad"]
+    },
+    {
+      "id": "hi-IN-amit",
+      "name": "Amit",
+      "locales": ["hi-IN"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "ko-KR": [
+    {
+      "id": "ko-KR-gyeong",
+      "name": "Gyeong",
+      "locales": ["ko-KR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "ko-KR-hwan",
+      "name": "Hwan",
+      "locales": ["ko-KR"],
+      "styles": ["Conversational", "Promo", "Calm", "Sad"]
+    },
+    {
+      "id": "ko-KR-seok",
+      "name": "Seok",
+      "locales": ["ko-KR"],
+      "styles": ["Audiobook"]
+    },
+    {
+      "id": "ko-KR-minseo",
+      "name": "Minseo",
+      "locales": ["ko-KR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "ko-KR-jangmi",
+      "name": "Jangmi",
+      "locales": ["ko-KR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "ko-KR-jong-su",
+      "name": "Jong-su",
+      "locales": ["ko-KR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "ko-KR-sanghoon",
+      "name": "Sanghoon",
+      "locales": ["ko-KR"],
+      "styles": ["Conversational", "Promo"]
+    }
+  ],
+  "ta-IN": [
+    {
+      "id": "ta-IN-iniya",
+      "name": "Iniya",
+      "locales": ["en-IN", "ta-IN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "ta-IN-mani",
+      "name": "Mani",
+      "locales": ["en-IN", "ta-IN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "ta-IN-sarvesh",
+      "name": "Sarvesh",
+      "locales": ["ta-IN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "ta-IN-abirami",
+      "name": "Abirami",
+      "locales": ["ta-IN"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "pl-PL": [
+    {
+      "id": "pl-PL-jacek",
+      "name": "Jacek",
+      "locales": ["pl-PL"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "pl-PL-kasia",
+      "name": "Kasia",
+      "locales": ["pl-PL"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "pl-PL-blazej",
+      "name": "Blazej",
+      "locales": ["en-US", "pl-PL"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "bn-IN": [
+    {
+      "id": "bn-IN-anwesha",
+      "name": "Anwesha",
+      "locales": ["bn-IN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "bn-IN-ishani",
+      "name": "Ishani",
+      "locales": ["bn-IN", "en-IN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "bn-IN-abhik",
+      "name": "Abhik",
+      "locales": ["bn-IN", "en-IN"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "bn-IN-arnab",
+      "name": "Arnab",
+      "locales": ["bn-IN", "en-IN"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "ja-JP": [
+    {
+      "id": "ja-JP-kenji",
+      "name": "Kenji",
+      "locales": ["ja-JP"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "ja-JP-kimi",
+      "name": "Kimi",
+      "locales": ["ja-JP"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "ja-JP-denki",
+      "name": "Denki",
+      "locales": ["ja-JP"],
+      "styles": ["Conversational"]
+    }
+  ],
+  "multi-locale": [
+    {
+      "id": "en-US-natalie",
+      "name": "Natalie",
+      "locales": ["en-US", "es-ES", "fr-FR"],
+      "styles": ["Promo", "Narration", "Newscast Formal", "Meditative", "Sad", "Angry", "Conversational", "Newscast Casual", "Furious", "Sorrowful", "Terrified", "Inspirational"]
+    },
+    {
+      "id": "en-US-miles",
+      "name": "Miles",
+      "locales": ["de-DE", "en-US", "es-ES", "fr-FR", "it-IT"],
+      "styles": ["Conversational", "Promo", "Sports Commentary", "Narration", "Newscast", "Sad", "Angry", "Calm", "Terrified", "Inspirational", "Pirate", "Customer Support Agent"]
+    },
+    {
+      "id": "en-US-amara",
+      "name": "Amara",
+      "locales": ["en-US", "es-ES", "fr-FR", "it-IT"],
+      "styles": ["Conversational", "Narration"]
+    },
+    {
+      "id": "en-US-ken",
+      "name": "Ken",
+      "locales": ["de-DE", "el-GR", "en-US", "es-ES", "es-MX", "fr-FR", "hr-HR", "tr-TR"],
+      "styles": ["Conversational", "Promo", "Newscast", "Storytelling", "Calm", "Furious", "Angry", "Sobbing", "Sad", "Wizard", "Audiobook", "Clown"]
+    },
+    {
+      "id": "en-US-carter",
+      "name": "Carter",
+      "locales": ["en-US", "fr-FR", "hi-IN"],
+      "styles": ["Conversational", "Narration", "Documentary", "Calm"]
+    },
+    {
+      "id": "en-UK-theo",
+      "name": "Theo",
+      "locales": ["bg-BG", "de-DE", "el-GR", "en-UK", "en-US", "es-MX", "fr-FR", "it-IT", "ro-RO", "sk-SK", "tr-TR"],
+      "styles": ["Narration", "Promo", "Calm", "Sad", "Angry", "Character"]
+    },
+    {
+      "id": "en-UK-ruby",
+      "name": "Ruby",
+      "locales": ["de-DE", "el-GR", "en-UK", "en-US", "es-ES", "es-MX", "fr-FR", "hi-IN", "hr-HR", "id-ID", "tr-TR"],
+      "styles": ["Conversational", "Promo", "Angry", "Sad", "Newscast", "Calm"]
+    },
+    {
+      "id": "en-UK-hazel",
+      "name": "Hazel",
+      "locales": ["en-UK", "en-US", "es-ES", "fr-FR", "hi-IN", "id-ID", "ro-RO", "tr-TR"],
+      "styles": ["Conversational"]
+    },
+    {
+      "id": "en-UK-gabriel",
+      "name": "Gabriel",
+      "locales": ["en-UK", "en-US", "es-MX", "fr-FR"],
+      "styles": ["Documentary", "Promo", "Evil"]
+    },
+    {
+      "id": "en-AU-kylie",
+      "name": "Kylie",
+      "locales": ["en-AU", "es-ES", "es-MX", "fr-FR", "hi-IN", "it-IT"],
+      "styles": ["Conversational", "Calm"]
+    },
+    {
+      "id": "en-AU-jimm",
+      "name": "Jimm",
+      "locales": ["de-DE", "en-AU", "en-US", "fr-FR", "hi-IN", "it-IT"],
+      "styles": ["Conversational", "Narration"]
+    },
+    {
+      "id": "en-AU-harper",
+      "name": "Harper",
+      "locales": ["en-AU", "fr-FR"],
+      "styles": ["Conversational", "Casual"]
+    }
+  ]
+}
